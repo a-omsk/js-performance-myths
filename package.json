@@ -1,0 +1,17 @@
+{
+  "name": "benchmark-xxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.4",
+    "microtime": "^2.1.6"
+  }
+}
